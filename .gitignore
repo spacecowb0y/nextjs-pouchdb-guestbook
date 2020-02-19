@@ -1,0 +1,4 @@
+guestbook/
+node_modules/
+.DS_Store
+.next
