@@ -17,7 +17,7 @@
     "isomorphic-unfetch": "^3.0.0",
     "moment": "^2.24.0",
     "nanoid": "^2.1.11",
-    "next": "^9.2.2",
+    "next": "^9.3.2",
     "node-sass": "^4.13.1",
     "pouchdb": "^7.2.1",
     "pouchdb-browser": "^7.2.1",
